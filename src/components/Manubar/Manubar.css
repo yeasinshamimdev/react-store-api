@@ -1,0 +1,10 @@
+.custom-nav{
+    list-style: none;
+    cursor: pointer;
+}
+
+@media only screen  and (max-width:970px){
+    .custom-navbar{
+      display: none;
+    }
+  }
