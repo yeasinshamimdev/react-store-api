@@ -11,7 +11,7 @@ function App() {
   const addToCart = () => setCount(++count);
 
   useEffect(() => {
-    Aos.init({ duration: 2000 });
+    Aos.init({ duration: 3000 });
   }, []);
 
   return (
